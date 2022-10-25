@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "42240632508",
+    "project_id": "eslam-89f9f",
+    "storage_bucket": "eslam-89f9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42240632508:android:a40054694c85142a2452b9",
+        "android_client_info": {
+          "package_name": "com.king.market_byokab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42240632508-7guagaoen0u1vegirvmb6u94p52noo80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.king.market_byokab",
+            "certificate_hash": "8480360c9c48c7ede7a6144493537ce30889be8a"
+          }
+        },
+        {
+          "client_id": "42240632508-bgmn5vqasmvcoe3vton3c9r24dld5ncs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVqLqDv6HSnJ9mBV6-VhyO_e3x4YMKJ6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42240632508-bgmn5vqasmvcoe3vton3c9r24dld5ncs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
